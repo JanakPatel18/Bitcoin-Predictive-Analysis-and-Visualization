@@ -1,1 +1,1 @@
-# Capstone
+# Bitcoin Predictive Analysis and Visualization
