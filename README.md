@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# PROJECT WORK
 
 ## Selected Topic - Bitcoin Predictive Analysis and Visualization
 Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin is the longest running and most well known cryptocurrency.
