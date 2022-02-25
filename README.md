@@ -1,4 +1,4 @@
-# Capstone
+# Bitcoin Predcitive Analysis and Visualization
 
 ## Selected Topic
 
