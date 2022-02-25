@@ -1,6 +1,7 @@
-# Bitcoin Predcitive Analysis and Visualization
+# FINAL PROJECT
 
-## Selected Topic
+## Selected Topic - Bitcoin Predictive Analysis and Visualization
+Our group selected to work with the Bitcoin Historical Data,
 
 ## Reason the topic was selected
 
