@@ -14,6 +14,7 @@ Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-histor
 
 ## Questions we would like to answer with the data:
 
+1)  How has Bitcoin's price in USD varied over time?
 
 ## Technologies Used: 
 
