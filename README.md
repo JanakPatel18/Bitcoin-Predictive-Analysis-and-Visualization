@@ -12,3 +12,5 @@ The topic that was selected by the group is Bitcoin Predictive Analysis and Visu
 
 We are using data obtained from Kaggle @ https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
+## Questions we hope to answer
+
