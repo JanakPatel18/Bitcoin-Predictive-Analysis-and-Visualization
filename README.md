@@ -14,3 +14,8 @@ We are using data obtained from Kaggle @ https://www.kaggle.com/mczielinski/bitc
 
 ## Questions we hope to answer
 
+These are some questions we would like to answer 
+
+1. How has the price value of Bitcoin varied from the data that was collected.
+2. How the pirce fluxuated as well
+
