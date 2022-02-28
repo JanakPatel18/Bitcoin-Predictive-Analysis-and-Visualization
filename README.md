@@ -7,6 +7,10 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 1) The team members are cryptocurrency enthusiasts, mainly after completion of the last two modules.
 2) We find the dataset interesting as it is merely numerical values.
 3) We believe that there lies plenty of functionality within this dataset and are eager to dive into some of these values through machine learning methods.
+4) We are interested in determining a short and long term market prediction using machine learning models
+5) Since the dataset is primarily numerical values, and we have a historical dataset, we can possibly use both supervised and unsupervised machine learning models to predict Bitcoin prices
+
+
 
 ## Description of the source of data
 Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-historical-data.
