@@ -38,7 +38,7 @@ Sherin - X
 ## Technologies Used: 
 
 ## a) Exploratory Data Analysis
-Various Libraray we will use like Pandas, numpy, matplotlib, date, seaborn, sklearn.model_selection nad all ML model libraries too will be used to perform EDA
+Various Libraries we will use like Pandas, numpy, matplotlib, date, seaborn will be used to perform EDA and sklearn.model_selection and all ML model libraries for predictive analysis 
 
 ## b) Database Storage
 PostgreSQL is the database we intend to use, and we will integrate Flask to display the data.
