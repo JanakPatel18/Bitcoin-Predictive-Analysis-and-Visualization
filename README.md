@@ -17,6 +17,14 @@ Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-histor
 ##  Description of the communication protocols 
 Our team has created a group chat via Slack and is meeting on days that we do not have class.
 
+## Team Member Roles
+
+Janak -  Square
+Anuradha - Tringle
+Mark - Triangle
+Uttam - Circle
+Sherin - X
+
 ## Questions we would like to answer with the data:
 
 1)  How has Bitcoin's price in USD varied over time?
@@ -35,4 +43,4 @@ PostgreSQL is the database we intend to use, and we will integrate Flask to disp
 SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 
 ## d) Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on Heroku.
+No dashboard is required for the first segment.  In the future we will be using Tableau or the Dashboard.
