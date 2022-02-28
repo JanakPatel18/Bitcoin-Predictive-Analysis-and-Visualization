@@ -12,7 +12,7 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 5) Since the dataset is primarily numerical values, and we have a historical dataset, we can possibly use both supervised and unsupervised machine learning models to predidct Bitcoin prices
 
 ## Description of the source of data
-Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-historical-data.
+Data is available on Kaggle at [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
 
 ##  Description of the communication protocols 
 Our team has created a group chat via Slack and is meeting on days that we do not have class.
