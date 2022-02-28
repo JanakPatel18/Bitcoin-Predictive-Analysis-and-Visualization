@@ -18,12 +18,11 @@ Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-histor
 Our team has created a group chat via Slack and is meeting on days that we do not have class.
 
 ## Team Member Roles
-
-Janak -  Square
-Anuradha - Tringle
-Mark - Triangle
-Uttam - Circle
-Sherin - X
+- Janak -  Square
+- Anuradha - Tringle
+- Mark - Triangle
+- Uttam - Circle
+- Sherin - X
 
 ## Questions we would like to answer with the data:
 
