@@ -44,7 +44,7 @@ Pandas will be used to clean the data and perform an exploratory analysis. Furth
 PostgreSQL is the database we intend to use, and we will integrate Flask to display the data.
 
 ## c) Machine Learning
-SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 
 ## d) Dashboard
 No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
