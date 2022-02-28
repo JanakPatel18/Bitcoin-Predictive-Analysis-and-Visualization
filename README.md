@@ -12,6 +12,8 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 ## Description of the source of data
 Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-historical-data.
 
+##  Description of the communication protocols 
+Our team has created a group chat via Slack and is meeting on days that we do not have class.
 
 ## Questions we would like to answer with the data:
 
