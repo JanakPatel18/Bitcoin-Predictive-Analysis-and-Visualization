@@ -1,21 +1,51 @@
 # Bitcoin-Predictive-Analysis-and-Visualization
 
-## Selected Topic
+# PROJECT WORK
 
-The topic that was selected by the group is Bitcoin Predictive Analysis and Visualization.  Bitoin is one the most well known cryptocurrencies and also one of the longest running. The Historical Data we chose to work with from January 2012 to March 2021.
+## Selected Topic - Bitcoin Predictive Analysis and Visualization
+Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin is the longest running and most well known cryptocurrency.
 
-## The Reason this Topic Selected
+## Reason the topic was selected
+1) The team members are cryptocurrency enthusiasts.
+2) We find the dataset interesting as it is merely numerical values.
+3) We believe that there lies plenty of functionality within this dataset and are eager to dive into some of these values through machine learning methods.
+4) We are interested in determining a short and long term market prediction using machine learning models
+5) Since the dataset is primarily numerical values, and we have a historical dataset, we can possibly use both supervised and unsupervised machine learning models to predidct Bitcoin prices
 
-1. We chose this topic because cryptocurrency is and an interesting topic and we became interested from some of the Modules that were done in course.
+## Description of the source of data
+Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-historical-data.
 
-## Description of the Source of Data
+##  Description of the communication protocols 
+Our team has created a group chat via Slack and is meeting on days that we do not have class.
 
-We are using data obtained from Kaggle @ https://www.kaggle.com/mczielinski/bitcoin-historical-data
+## Team Member Roles
 
-## Questions we hope to answer
+Janak -  Square
 
-These are some questions we would like to answer 
+Anuradha - Tringle
 
-1. How has the price value of Bitcoin varied from the data that was collected.
-2. How the pirce fluxuated as well
+Mark - Triangle
 
+Uttam - Circle
+
+Sherin - X
+
+## Questions we would like to answer with the data:
+
+1)  How has Bitcoin's price in USD varied over time?
+2)  Can we predict Bitcoin's price in the future based prices from the previous days, months, or years?
+3)  How has trading volume affected the price previously and how does it affect the price now?
+
+## Technologies Used: 
+
+## a) Data Cleaning and Analysis
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+
+## b) Database Storage
+PostgreSQL is the database we intend to use, and we will integrate Flask to display the data.
+
+## c) Machine Learning
+SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+
+## d) Dashboard
+No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
