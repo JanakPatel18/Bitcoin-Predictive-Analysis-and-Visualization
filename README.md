@@ -47,4 +47,4 @@ PostgreSQL is the database we intend to use, and we will integrate Flask to disp
 SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 
 ## d) Dashboard
-No dashboard is required for the first segment.  In the future we will be using Tableau or the Dashboard.
+No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
