@@ -37,14 +37,18 @@ Sherin - X
 
 ## Technologies Used: 
 
-## a) Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+## a) Exploratory Data Analysis
+Various Libraries we will use like Pandas, numpy, matplotlib, date, seaborn will be used to perform EDA and sklearn.model_selection and all ML model libraries for predictive analysis 
 
 ## b) Database Storage
 PostgreSQL is the database we intend to use, and we will integrate Flask to display the data.
 
 ## c) Machine Learning
-SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+1) Linear Regression
+2) DecisionTreeRegressor
+3) Lasso Regression
+And more in case of need as we see during analysis
 
 ## d) Dashboard
 No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
