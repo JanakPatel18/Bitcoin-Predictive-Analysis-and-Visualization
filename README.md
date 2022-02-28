@@ -2,7 +2,7 @@
 # PROJECT WORK
 
 ## Selected Topic - Bitcoin Predictive Analysis and Visualization
-Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin is the longest running and most well known cryptocurrency.
+Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin / BTC (shorthand) - A form of digital currency created in 2009, that is created and distributed on a peer-to-peer basis. It has no central bank - transactions are conducted directly between individuals. Bitcoin is the most of cryptocurrency. Bitcoin is the longest running and most well known cryptocurrency. 
 
 ## Reason the topic was selected
 1) The team members are cryptocurrency enthusiasts.
