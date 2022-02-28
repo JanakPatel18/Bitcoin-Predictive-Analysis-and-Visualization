@@ -1,3 +1,4 @@
+
 # PROJECT WORK
 
 ## Selected Topic - Bitcoin Predictive Analysis and Visualization
@@ -10,12 +11,18 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 4) We are interested in determining a short and long term market prediction using machine learning models
 5) Since the dataset is primarily numerical values, and we have a historical dataset, we can possibly use both supervised and unsupervised machine learning models to predidct Bitcoin prices
 
-
 ## Description of the source of data
 Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-historical-data.
 
 ##  Description of the communication protocols 
 Our team has created a group chat via Slack and is meeting on days that we do not have class.
+
+## Team Member Roles
+- Janak -  Square
+- Anuradha - Tringle
+- Mark - Triangle
+- Uttam - Circle
+- Sherin - X
 
 ## Questions we would like to answer with the data:
 
@@ -35,4 +42,4 @@ PostgreSQL is the database we intend to use, and we will integrate Flask to disp
 SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 
 ## d) Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on Heroku.
+No dashboard is required for the first segment.  In the future we will be using Tableau or the Dashboard.
