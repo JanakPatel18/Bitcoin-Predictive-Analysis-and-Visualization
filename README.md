@@ -19,7 +19,7 @@ Our team has created a group chat via Slack and is meeting on days that we do no
 
 ## Team Member Roles
 
-##Janak -  Square
+Janak -  Square
 
 Anuradha - Tringle
 
