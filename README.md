@@ -41,14 +41,19 @@ Sherin - X
 Various Libraries we will use like Pandas, numpy, matplotlib, date, seaborn will be used to perform EDA and sklearn.model_selection and all ML model libraries for predictive analysis 
 
 ## b) Database Storage
-PostgreSQL is the database we intend to use, and we will integrate Flask to display the data.
+MongoDB is the database we intend to use, and we will integrate Flask to display the data.
+We created 2 table
+1. The first table includes the raw data: CRYPTO_RAW_DATA
+2. The second will have preprocessing data: CRYPTO_DATA_FEED
 
 ## c) Machine Learning
 Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 1) Linear Regression
-2) DecisionTreeRegressor
-3) Lasso Regression
+2) Decision Tree Regressor
+3) Random Forest
+4) ARIMA Model
+5) SARIMA Model
 And more in case of need as we see during analysis
 
-## d) Dashboard
-No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
+## d) Dashboard and Presentation.
+We used google slides for our presentation.  This is the link to the presentation:[Click here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit?usp=sharing)
