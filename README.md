@@ -52,4 +52,4 @@ Will use different Machine Learning Model to do predictive analysis. SciKitLearn
 5) SARIMA Model
 
 ## d) Dashboard
-No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
+We used google slides for our presentation. This is the link to the presentation:Click here
