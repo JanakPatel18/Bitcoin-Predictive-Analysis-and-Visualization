@@ -52,4 +52,4 @@ Will use different Machine Learning Model to do predictive analysis. SciKitLearn
 5) SARIMA Model
 
 ## d) Dashboard
-We used google slides for our presentation. This is the link to the presentation:Click here
+We used google slides for our presentation.  This is the link to the presentation:[Click here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit?usp=sharing)
