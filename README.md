@@ -44,7 +44,12 @@ Various Libraries we will use like Pandas, numpy, matplotlib, date, seaborn will
 MongoDB is the database we intend to use, and we will integrate Flask to display the data.
 We created 2 table
 1. The first table includes the raw data: CRYPTO_RAW_DATA
+
+![rawdata](https://user-images.githubusercontent.com/91766890/158105223-d9e80222-9ca7-4325-a1bb-4b303650ea4c.png)
+
 2. The second will have preprocessing data: CRYPTO_DATA_FEED
+
+![hourlydataset](https://user-images.githubusercontent.com/91766890/158105235-0076686b-845d-4753-9316-7e3ea42ba28c.png)
 
 ## c) Machine Learning
 Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
