@@ -1,9 +1,8 @@
-# Bitcoin-Predictive-Analysis-and-Visualization
 
 # PROJECT WORK
 
 ## Selected Topic - Bitcoin Predictive Analysis and Visualization
-Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin is the longest running and most well known cryptocurrency.
+Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin / BTC (shorthand) - A form of digital currency created in 2009, that is created and distributed on a peer-to-peer basis. It has no central bank - transactions are conducted directly between individuals. Bitcoin is the most of cryptocurrency. Bitcoin is the longest running and most well known cryptocurrency. 
 
 ## Reason the topic was selected
 1) The team members are cryptocurrency enthusiasts.
@@ -13,7 +12,7 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 5) Since the dataset is primarily numerical values, and we have a historical dataset, we can possibly use both supervised and unsupervised machine learning models to predidct Bitcoin prices
 
 ## Description of the source of data
-Data is available on Kaggle at https://www.kaggle.com/mczielinski/bitcoin-historical-data.
+Data is available on Kaggle at [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
 
 ##  Description of the communication protocols 
 Our team has created a group chat via Slack and is meeting on days that we do not have class.
@@ -38,14 +37,22 @@ Sherin - X
 
 ## Technologies Used: 
 
-## a) Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+## a) Exploratory Data Analysis
+Various Libraries we will use like Pandas, numpy, matplotlib, date, seaborn will be used to perform EDA and sklearn.model_selection and all ML model libraries for predictive analysis 
 
 ## b) Database Storage
-PostgreSQL is the database we intend to use, and we will integrate Flask to display the data.
+MongoDB is the database we intend to use, and we will integrate Flask to display the data.
+We created 2 table
+1. The first table includes the raw data: CRYPTO_RAW_DATA
+2. The second will have preprocessing data: CRYPTO_DATA_FEED
 
 ## c) Machine Learning
-SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+1) Linear Regression
+2) Decision Tree Regressor
+3) Random Forest
+4) ARIMA Model
+5) SARIMA Model
 
-## d) Dashboard
-No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
+## d) Dashboard and Presentation.
+We used google slides for our presentation.  This is the link to the presentation: [Click here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit?usp=sharing)
