@@ -38,7 +38,7 @@ Sherin - X
 ## Technologies Used: 
 
 ## a) Exploratory Data Analysis
-Various Libraries we will use like Pandas, numpy, matplotlib, date, seaborn will be used to perform EDA and sklearn.model_selection and all ML model libraries for predictive analysis 
+We will be using various Libraries like Pandas, numpy, matplotlib and date. Seaborn will be used to perform EDA. sklearn.model_selection and all ML model libraries for predictive analysis were also used.
 
 ## b) Database Storage
 MongoDB is the database we intend to use, and we will integrate Flask to display the data.
