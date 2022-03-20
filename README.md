@@ -52,7 +52,7 @@ We created 2 tables
 ![hourlydataset](https://user-images.githubusercontent.com/91766890/158105235-0076686b-845d-4753-9316-7e3ea42ba28c.png)
 
 ## c) Machine Learning
-Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+Will use different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 1) Linear Regression
 2) Decision Tree Regressor
 3) Random Forest
