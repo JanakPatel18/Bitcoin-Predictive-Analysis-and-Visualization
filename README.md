@@ -42,7 +42,7 @@ We will be using various Libraries like Pandas, numpy, matplotlib and date. Seab
 
 ## b) Database Storage
 MongoDB is the database we intend to use, and we will integrate Flask to display the data.
-We created 2 table
+We created 2 tables
 1. The first table includes the raw data: CRYPTO_RAW_DATA
 
 ![rawdata](https://user-images.githubusercontent.com/91766890/158105223-d9e80222-9ca7-4325-a1bb-4b303650ea4c.png)
