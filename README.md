@@ -38,8 +38,6 @@ We created 2 tables
 ## d) Dashboard and Presentation.
 1. Presentation. [Click Here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit#slide=id.g40199f628d_2_149)
 
-2. Dashboard Link. [Click Here](
-
 ## Project Structure Outline
 1. Data analysis and handling
    a. Imported the raw data to MongoDB
