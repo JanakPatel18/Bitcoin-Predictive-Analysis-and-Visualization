@@ -14,21 +14,6 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 ## Description of the source of data
 Data is available on Kaggle at [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
 
-##  Description of the communication protocols 
-Our team has created a group chat via Slack and is meeting on days that we do not have class.
-
-## Team Member Roles
-
-Janak -  Square
-
-Anuradha - Tringle
-
-Mark - Triangle
-
-Uttam - Circle
-
-Sherin - X
-
 ## Questions we would like to answer with the data:
 
 1)  How has Bitcoin's price in USD varied over time?
