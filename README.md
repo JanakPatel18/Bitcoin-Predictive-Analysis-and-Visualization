@@ -55,7 +55,7 @@ We created 2 tables
    
    a. Linear Regression
    
-   b. Decision Tree Regressor
+   b. Decision Tree Regressor [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
    
    c. Random Forest
    
