@@ -42,16 +42,23 @@ We created 2 tables
 1. Data analysis and handling
    
    a. Imported the raw data to MongoDB
+   
    b. Cleaned the data using Python and reloaded the data in to a new table.
+   
    c. As part of the cleaning process we took care of missing and resampled the data from minutes of information to hourly information. (Reduced the data to 86,000           rows)
 2. EDA and feature enngineering
    
    a. Did multiple correlation through Matploblib among the attributes.
+   
    b. Tried to figure out the important attributes for the ML models.
 3. Used different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
    
    a. Linear Regression
+   
    b. Decision Tree Regressor
+   
    c. Random Forest
+   
    d. ARIMA Model
+   
    e. SARIMA Model
