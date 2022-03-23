@@ -54,16 +54,11 @@ We created 2 tables
 3. Used different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
    
    a. Linear Regression Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
-![Linear](https://user-images.githubusercontent.com/91707734/159617766-aa4b2161-9540-4bca-bb13-a371670009da.jpg)
 
    b. Decision Tree Regressor Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
-![decision tree regressor](https://user-images.githubusercontent.com/91707734/159617775-df8274ab-4c05-44b2-a4e3-310905c4dee7.png)
    
    c. Random Forest Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_TA_RandomForest.ipynb)
-![Random_Forest Open Price Vs Year](https://user-images.githubusercontent.com/91707734/159617786-ce114acb-2707-49c0-84dc-796845958a5b.png)
 
    d. ARIMA Model Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
-![ARIMA](https://user-images.githubusercontent.com/91707734/159617794-d1c8f86b-9ef4-464a-b63d-8694c51f8bd4.png)
   
    e. SARIMA Model [Code](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
-![SARIMA April Month Prediction](https://user-images.githubusercontent.com/91707734/159617807-862bbf36-d97f-4405-8ffa-5d86773131e8.jpg)
