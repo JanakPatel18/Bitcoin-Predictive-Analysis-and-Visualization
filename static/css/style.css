@@ -1,6 +1,10 @@
+h1 {
+    color: rgb(255, 255, 255);
+}
+
 body {
 
-    color: #f7f7f7;
+    color: #000000;
   }
 
   .jumbotron {
