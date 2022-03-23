@@ -35,7 +35,7 @@ We created 2 tables
 
 ![hourlydataset](https://user-images.githubusercontent.com/91766890/158105235-0076686b-845d-4753-9316-7e3ea42ba28c.png)
 
-## d) Dashboard and Presentation.
+## c) Dashboard and Presentation.
 1. Presentation. [Click Here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit#slide=id.g40199f628d_2_149)
 
 ## Project Structure Outline
