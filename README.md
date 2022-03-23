@@ -57,7 +57,11 @@ We created 2 tables
 
    b. Decision Tree Regressor Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
    
+   We decided not to move forward with this model because accuracy score can't be calculated with this method.
+   
    c. Random Forest Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_TA_RandomForest.ipynb)
+   
+   The model's predictive accuracy score is less than 40% so we decided to to explore time-series analysis to predict future bitcoin values
 
    d. ARIMA Model Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
   
