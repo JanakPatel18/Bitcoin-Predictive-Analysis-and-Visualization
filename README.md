@@ -2,7 +2,7 @@
 # PROJECT WORK
 
 ## Selected Topic - Bitcoin Predictive Analysis and Visualization
-Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin / BTC (shorthand) - A form of digital currency created in 2009, that is created and distributed on a peer-to-peer basis. It has no central bank - transactions are conducted directly between individuals. Bitcoin is the most of popular cryptocurrency. Bitcoin is the longest running and most well known cryptocurrency. 
+Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin / BTC (shorthand) - A form of digital currency created in 2009, that is created and distributed on a peer-to-peer basis. It has no central bank - transactions are conducted directly between individuals. Bitcoin is the most popular cryptocurrency. Bitcoin is the longest running and most well known cryptocurrency. 
 
 ## Reason the topic was selected
 1) The team members are cryptocurrency enthusiasts.
@@ -14,26 +14,10 @@ Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2
 ## Description of the source of data
 Data is available on Kaggle at [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
 
-##  Description of the communication protocols 
-Our team has created a group chat via Slack and is meeting on days that we do not have class.
-
-## Team Member Roles
-
-Janak -  Square
-
-Anuradha - Tringle
-
-Mark - Triangle
-
-Uttam - Circle
-
-Sherin - X
-
 ## Questions we would like to answer with the data:
-
-1)  How has Bitcoin's price in USD varied over time?
-2)  Can we predict Bitcoin's price in the future based prices from the previous days, months, or years?
-3)  How has trading volume affected the price previously and how does it affect the price now?
+1)  How was Bitcoin journey over the last decade?
+2)  How has Bitcoin's price in USD varied over time?
+3)  Can we predict Bitcoin's price in the future based prices from the previous days, months, or years? 
 
 ## Technologies Used: 
 
@@ -51,13 +35,35 @@ We created 2 tables
 
 ![hourlydataset](https://user-images.githubusercontent.com/91766890/158105235-0076686b-845d-4753-9316-7e3ea42ba28c.png)
 
-## c) Machine Learning
-Will use different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
-1) Linear Regression
-2) Decision Tree Regressor
-3) Random Forest
-4) ARIMA Model
-5) SARIMA Model
+## c) Dashboard and Presentation.
+1. Presentation. [Click Here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit#slide=id.g40199f628d_2_149)
 
-## d) Dashboard and Presentation.
-We used google slides for our presentation.  This is the link to the presentation: [Click here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit?usp=sharing)
+## Project Structure Outline
+1. Data analysis and handling
+   
+   a. Imported the raw data to MongoDB
+   
+   b. Cleaned the data using Python and reloaded the data in to a new table.
+   
+   c. As part of the cleaning process we took care of missing and resampled the data from minutes of information to hourly information. (Reduced the data to 86,000           rows)
+2. EDA and feature enngineering
+   
+   a. Did multiple correlation through Matploblib among the attributes.
+   
+   b. Tried to figure out the important attributes for the ML models.
+3. Used different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
+   
+   a. Linear Regression Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+![Linear](https://user-images.githubusercontent.com/91707734/159617766-aa4b2161-9540-4bca-bb13-a371670009da.jpg)
+
+   b. Decision Tree Regressor Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
+![decision tree regressor](https://user-images.githubusercontent.com/91707734/159617775-df8274ab-4c05-44b2-a4e3-310905c4dee7.png)
+   
+   c. Random Forest Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_TA_RandomForest.ipynb)
+![Random_Forest Open Price Vs Year](https://user-images.githubusercontent.com/91707734/159617786-ce114acb-2707-49c0-84dc-796845958a5b.png)
+
+   d. ARIMA Model Code [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+![ARIMA](https://user-images.githubusercontent.com/91707734/159617794-d1c8f86b-9ef4-464a-b63d-8694c51f8bd4.png)
+  
+   e. SARIMA Model [Code](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+![SARIMA April Month Prediction](https://user-images.githubusercontent.com/91707734/159617807-862bbf36-d97f-4405-8ffa-5d86773131e8.jpg)
