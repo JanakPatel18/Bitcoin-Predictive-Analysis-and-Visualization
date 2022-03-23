@@ -69,5 +69,5 @@ We created 2 tables
    d. ARIMA Model [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
   ![ARIMA](https://user-images.githubusercontent.com/91707734/159720844-3f644e8a-2354-4313-b5ec-a22f6a057415.png)
 
-   e. SARIMA Model [Code](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+   e. SARIMA Model [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
 ![SARIMA April Month Prediction](https://user-images.githubusercontent.com/91707734/159722402-bd01f314-0996-44e4-a5e6-e819c9c1fe7f.jpg)
