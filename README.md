@@ -47,7 +47,8 @@ PostgreSQL is the database we intend to use, and we will integrate Flask to disp
 Will use different Machine Learning Model to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
 1) Linear Regression
 2) DecisionTreeRegressor
-3) Lasso Regression
+3) ARIMA 
+4) SARIMA
 And more in case of need as we see during analysis
 
 ## d) Dashboard
