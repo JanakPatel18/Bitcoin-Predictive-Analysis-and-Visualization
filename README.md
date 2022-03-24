@@ -75,6 +75,8 @@ We created 2 tables
    **a. Linear Regression** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
    
    ![Linear](https://user-images.githubusercontent.com/91707734/159720379-8b5773b2-d591-4cff-af3e-60a659356cdc.jpg)
+   
+   It is the very first model we tried to predict the future values with but as you can see in the graph it did not predicted the price correctly and also got Mean Absolute Error very high. So planned to quite it and try different model.
 
    **b. Decision Tree Regressor** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
    
@@ -91,7 +93,12 @@ We created 2 tables
    **d. ARIMA Model**  [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
    
    ![ARIMA](https://user-images.githubusercontent.com/91707734/159720844-3f644e8a-2354-4313-b5ec-a22f6a057415.png)
+   
+      Time series ARIMA model was also not helpful to predict the future stock price as you can see in the graph above. ARIMA model does not work well with seasonal data and Bitcoin data is a seasonal data
 
    **e. SARIMA Model**  [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
    
    ![SARIMA April Month Prediction](https://user-images.githubusercontent.com/91707734/159722402-bd01f314-0996-44e4-a5e6-e819c9c1fe7f.jpg)
+
+   As Bitcoin data is seasonal, SARIMA is the right model to go head with price prediction.
+We created the Seasonal difference and it helped to predict the future prices as you can see in the graph. SARIMA predictions are much closer and aline with real prices
