@@ -84,7 +84,7 @@ We created 2 tables
 
    We decided not to move forward with this model because accuracy score can't be calculated with this method.
    
-   **c. Random Forest Classifier** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_TA_RandomForest.ipynb)
+   **c. Random Forest Classifier** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_RandomForest_Deliverable4.ipynb)
    
    ![Random_Forest Open Price Vs Year](https://user-images.githubusercontent.com/91707734/159720709-aa71c684-4bd4-4ec0-9abe-11654b251a8e.png)
   
