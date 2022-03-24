@@ -1,6 +1,10 @@
 
 # PROJECT WORK
 
+# Team Members
+
+Anuradha Singh, Sherin Chacko, Janak Patel, Mark Melendez, Uttam Kumar
+
 ## Selected Topic - Bitcoin Predictive Analysis and Visualization
 Our group selected to work with the Bitcoin Historical Data (Jan 2012 to March 2021). Bitcoin / BTC (shorthand) - A form of digital currency created in 2009, that is created and distributed on a peer-to-peer basis. It has no central bank - transactions are conducted directly between individuals. Bitcoin is the most popular cryptocurrency. Bitcoin is the longest running and most well known cryptocurrency. 
 
@@ -37,6 +41,7 @@ We created 2 tables
 
 ## c) Dashboard and Presentation.
 1. Presentation. [Click Here](https://docs.google.com/presentation/d/1hqEKFD-_s7xPiY4kffiQOeBNFVU4e59aDoc2pJYWI-4/edit#slide=id.g40199f628d_2_149)
+2. Dashboard [CLick Here](https://public.tableau.com/app/profile/uttam.kumar4024/viz/BitCoinDataVisualization/BITCOINApril2021PricePrediction#1)
 
 ## Project Structure Outline
 1. Data analysis and handling
@@ -50,9 +55,21 @@ We created 2 tables
 2. EDA and feature enngineering
    
    a. Did multiple correlation through Matploblib among the attributes.
+   ![Correlation](https://user-images.githubusercontent.com/91707734/159818451-6a0d277e-707f-48d5-a7a1-be71ecdf2171.png)
+   
+   Open, high, low, close and Volume_Currency are highly related which is negatively correlated with the weighted price.  Volume is not correlated with weighted price at all.  Year is moderately related with weighted price
+   
    
    b. Tried to figure out the important attributes for the ML models.
    
+   ![EDA Image 2](https://user-images.githubusercontent.com/91707734/159818307-181ee925-c3f1-4aa7-8dce-121209d57e69.png)
+   
+   The above graph shows the zoomed in version from 2012 - 2016.  As you see from the graph, the weighted price is relatively low to start and then goes on the rise starting in 2014 and starts to drop down as you get closer to 2016.
+   
+   ![EDA Image 3](https://user-images.githubusercontent.com/91707734/159818314-ebb6ff63-697d-4789-a0fd-1346b0f67d4a.png)
+   
+   The above image show the zoomed in version from 2016 - 2021.  The weighted price is in the low $100's in 2016 and starts to go on the rise very quickly by 2018.  The next three years show that the price was fluctuating over the next couple years and is currently on the rise.
+
 3. Used different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
    
    **a. Linear Regression** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
