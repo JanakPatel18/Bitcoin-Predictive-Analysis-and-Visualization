@@ -49,7 +49,7 @@ Will use different Machine Learning Model to do predictive analysis. SciKitLearn
 2) DecisionTreeRegressor
 3) ARIMA 
 4) SARIMA
-And more in case of need as we see during analysis
+
 
 ## d) Dashboard
 No dashboard is required for the first segment.  In the future we will be using Tableau for the Dashboard.
