@@ -55,26 +55,26 @@ We created 2 tables
    
 3. Used different Machine Learning Models to do predictive analysis. SciKitLearn is the Machine Learning library we'll be using to create a classifier. 
    
-**a. Linear Regression** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+   **a. Linear Regression** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
    
 ![Linear](https://user-images.githubusercontent.com/91707734/159720379-8b5773b2-d591-4cff-af3e-60a659356cdc.jpg)
 
-**b. Decision Tree Regressor** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
+   **b. Decision Tree Regressor** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Decision%20Tree%20Regression%20for%20Bitcoin-Scatter%20Matrix%20with%20KDE%20Plot.ipynb)
    
    ![decision tree regressor](https://user-images.githubusercontent.com/91707734/159720542-ff435824-951c-4f4f-89a1-fd13740faea5.png)
 
    We decided not to move forward with this model because accuracy score can't be calculated with this method.
    
-**c. Random Forest Classifier** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_TA_RandomForest.ipynb)
+   **c. Random Forest Classifier** [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin_TA_RandomForest.ipynb)
    
  ![Random_Forest Open Price Vs Year](https://user-images.githubusercontent.com/91707734/159720709-aa71c684-4bd4-4ec0-9abe-11654b251a8e.png)
   
    The model's predictive accuracy score is less than 40% so we decided to to explore time-series analysis to predict future bitcoin values
 
-**d. ARIMA Model**  [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+   **d. ARIMA Model**  [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
    
   ![ARIMA](https://user-images.githubusercontent.com/91707734/159720844-3f644e8a-2354-4313-b5ec-a22f6a057415.png)
 
-**e. SARIMA Model**  [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
+   **e. SARIMA Model**  [Click Here](https://github.com/JanakPatel18/Bitcoin-Predictive-Analysis-and-Visualization/blob/main/Bitcoin%20Prediction%20with%20Linear%2C%20ARIMA%20%26%20SARIMA%20Model.ipynb)
    
 ![SARIMA April Month Prediction](https://user-images.githubusercontent.com/91707734/159722402-bd01f314-0996-44e4-a5e6-e819c9c1fe7f.jpg)
